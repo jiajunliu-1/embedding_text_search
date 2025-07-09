@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+*.sqlite
+*.db
+
+# Environment files
+.env
+*.env
+
+# Conda environment files
+conda-meta/
+*.conda
+*.lock
+
+# Pytest cache
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pip wheel
+*.whl
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache
